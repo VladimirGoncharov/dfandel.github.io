@@ -2,10 +2,7 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "N7BDGN33JG.com.twiage.ios",
-			"paths": ["/password/reset/*"]
-		}, {
-			"appID": "N7BDGN33JG.com.twiage.ios.demo",
+			"appID": "N7BDGN33JG.com.twiage.hospital.ios.staging",
 			"paths": ["/password/reset/*"]
 		}, {
 			"appID": "N7BDGN33JG.com.twiage.ios.staging",
